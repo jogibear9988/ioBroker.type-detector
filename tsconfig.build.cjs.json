@@ -9,6 +9,7 @@
         "module": "commonjs",
         "moduleResolution": "node",
         "outDir": "./build/",
+        "target": "es2019",
     },
     "include": ["src/**/*.ts"],
     "exclude": ["src/**/*.test.ts"]
