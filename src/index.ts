@@ -25,6 +25,7 @@
 import { ChannelDetector } from './ChannelDetector.js';
 
 export default ChannelDetector;
+export { ChannelDetector };
 export {
     type DetectorState,
     type DetectOptions,
