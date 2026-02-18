@@ -6,6 +6,7 @@
     "name": "bluefox",
     "email": "dogafox@gmail.com"
   },
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },

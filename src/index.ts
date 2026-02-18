@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-import { ChannelDetector } from './ChannelDetector';
+import { ChannelDetector } from './ChannelDetector.js';
 
 export default ChannelDetector;
 export {
@@ -34,4 +34,4 @@ export {
     type PatternName,
     Types,
     StateType,
-} from './types';
+} from './types.js';
